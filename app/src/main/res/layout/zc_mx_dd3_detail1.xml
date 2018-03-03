@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+   <!-- <HorizontalScrollView
+
+        android:id="@+id/hsv_query"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+
+        >
+
+        <RelativeLayout
+            android:id="@+id/rl_query1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/ll_query3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="序号" />
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="调出仓库" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="调出仓位" />
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="调入仓库" />
+                <TextView
+                    android:id="@+id/tv_zc_mx_dd3_detail_drcw"
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="调入仓位" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="名称" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="规格" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="单位" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="生产日期" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="批号" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="批号序号" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="保质期" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="数量" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="件数" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="物料备注" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="标识编码" />
+
+                <TextView
+                    style="@style/ListTextView_1"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="标识名称" />
+
+            </LinearLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_zc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/ll_query3"></android.support.v7.widget.RecyclerView>
+
+
+        </RelativeLayout>
+    </HorizontalScrollView>-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_zc_mx_detail_1"
+                style="@style/ListTextView_1"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="序号" />
+            <include layout="@layout/fgx"></include>
+            <gjp.com.wzmanager.ui.CHScrollView1
+                android:id="@+id/item_scroll_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/red"
+                android:scrollbars="none" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="调出仓库" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="调出仓位" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="调入仓库" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        android:id="@+id/tv_zc_mx_dd3_detail_drcw"
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="调入仓位" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="@dimen/item_name"
+                        android:layout_height="wrap_content"
+                        android:text="名称" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="@dimen/item_name"
+                        android:layout_height="wrap_content"
+                        android:text="规格" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="单位" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="生产日期" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="批号" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="批号序号" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="保质期" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="数量" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:text="件数" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="物料备注" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="标识编码" />
+                    <include layout="@layout/fgx"></include>
+                    <TextView
+                        style="@style/ListTextView_1"
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="标识名称" />
+
+                </LinearLayout>
+            </gjp.com.wzmanager.ui.CHScrollView1>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/ccc" />
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_zc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/ll_query3"></android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+</LinearLayout>

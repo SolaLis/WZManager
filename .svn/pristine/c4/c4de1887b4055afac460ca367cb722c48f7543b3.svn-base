@@ -1,0 +1,55 @@
+package gjp.com.wzmanager.activity;
+
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import gjp.com.wzmanager.R;
+import gjp.com.wzmanager.util.SharedPreferencesUtil;
+
+public class UsermessageActivity extends BaseActivity {
+    private TextView yh_no_message; // 账号
+    private TextView yh_name_message; // 姓名
+    private TextView yh_no_source; // 部门
+    private ImageView yh_no_back; // 返回
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_usermessage);
+        init();
+    }
+
+    private void init() {
+        // 实例化
+        yh_no_back = (ImageView) findViewById(R.id.yh_no_back);
+        yh_no_message = (TextView) findViewById(R.id.yh_no_message);
+        yh_name_message = (TextView) findViewById(R.id.yh_name_message);
+        yh_no_source = (TextView) findViewById(R.id.yh_no_source);
+        String yh_no = SharedPreferencesUtil.getStringData(
+                getApplicationContext(), "usercode", null);
+        String yh_name = SharedPreferencesUtil.getStringData(
+                getApplicationContext(), "username", null);
+        String Bm_name = SharedPreferencesUtil.getStringData(
+                getApplicationContext(), "bm_name", null);
+        Log.e("TAG", "基础信息----" + yh_name + "---" + yh_no+"---"+Bm_name);
+
+        // 返回点击事件
+        yh_no_back.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                finish();
+            }
+        });
+        yh_no_message.setText(yh_no);
+        yh_name_message.setText(yh_name);
+        yh_no_source.setText(Bm_name);
+    }
+
+
+
+}

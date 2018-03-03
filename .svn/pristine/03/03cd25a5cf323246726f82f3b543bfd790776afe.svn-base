@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg"
+    android:orientation="vertical" >
+
+<include layout="@layout/navigation_header"></include>
+    <RadioGroup
+        android:id="@+id/rg_deal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        >
+        <RadioButton
+            android:id="@+id/rb_deal_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:padding="10dp"
+            android:background="@drawable/rb_ybl"
+            android:text="@string/deal_ybl"
+            />
+        <RadioButton
+            android:id="@+id/rb_deal_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:padding="10dp"
+            android:checked="true"
+            android:background="@drawable/rb_wbl"
+            android:text="@string/deal_wbl"
+            />
+
+
+    </RadioGroup>
+
+
+</LinearLayout>

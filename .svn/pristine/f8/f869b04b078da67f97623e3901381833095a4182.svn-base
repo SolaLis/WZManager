@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/loginTextHeight" >
+
+        </RelativeLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/loginHeight"
+            android:background="@drawable/et_send_bg"
+
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="@dimen/loginLogoWidth"
+                android:layout_height="match_parent"
+                android:background="@color/gray"
+                android:scaleType="center"
+                android:src="@drawable/user_name_icon" />
+
+            <EditText
+                android:id="@+id/et_login_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:hint="@string/login_user"
+                android:paddingLeft="@dimen/dg_15"
+                android:singleLine="true"
+                android:text="1000"
+                android:textSize="@dimen/FontSize15" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/loginHeight"
+            android:layout_marginTop="@dimen/dg_10"
+            android:background="@drawable/et_send_bg"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="@dimen/loginLogoWidth"
+                android:layout_height="match_parent"
+                android:background="@color/gray"
+                android:scaleType="center"
+                android:src="@drawable/password_icon" />
+
+            <EditText
+                android:id="@+id/et_login_pass"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:hint="@string/login_pass"
+                android:text="b394478f3dadcdadfab2ce684fa2f289"
+                android:inputType="textPassword"
+                android:paddingLeft="@dimen/dg_15"
+                android:singleLine="true"
+                android:textSize="@dimen/FontSize15" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/loginHeight"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_test_entrance"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:visibility="invisible" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tv_set_server"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/tv_set_server"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/loginHeight"
+            android:layout_marginTop="@dimen/dg_10"
+            android:background="@drawable/account_list_background"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/login"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+</LinearLayout>

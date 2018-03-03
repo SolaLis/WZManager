@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="gjp.com.wzmanager"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="gjp.com.wzmanager.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="gjp.com.wzmanager.activity.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="gjp.com.wzmanager.activity.LoginActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ServerActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.MainActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.BaseActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.DealActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.QueryActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.TestActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.BmActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.EmployeeActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.SqbActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.SqbmxActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.SqbLyActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.SqbJyActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.SqbXsActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.SqbZyActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.SqbDrActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ASqbCgActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ASqbDrActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ASqbJyActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ASqbLyActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ASqbXsActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ASqbZyActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.AudireInfoActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.AZcMxActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ABxMxActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.ADd3Activity" />
+        <activity android:name="gjp.com.wzmanager.activity.PdMxActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.PdTimeMxActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.AboutActivity" />
+        <activity android:name="gjp.com.wzmanager.activity.UsermessageActivity" />
+    </application>
+
+</manifest>

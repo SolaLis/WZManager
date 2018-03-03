@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

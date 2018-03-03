@@ -1,0 +1,112 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/bg_main</item>
+        <item name="colorPrimaryDark">@color/bg_main</item>
+        <item name="colorAccent">@color/bg_main</item>
+    </style>
+
+    <style name="RadioButton_main">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/rb_textcolor</item>
+    </style>
+    <!--查询界面-->
+    <style name="CheckBox_query">
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/cb</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Query_text">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+
+
+    <!--往来单位item-->
+    <style name="item_wldw">
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <!--单据查询首页-->
+    <style name="inden_btn">
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@color/color_666</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:padding">10dp</item>
+
+    </style>
+
+    <style name="ListTextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:background">@drawable/editsharpgray</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:singleLine">true</item>
+     <!--   <item name="android:background">@color/white</item>-->
+    </style>
+    <style name="ListTextView1">
+        <item name="android:background">@drawable/editsharpgray</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ListTextView_1">
+        <item name="android:textColor">#000000</item>
+       <!-- <item name="android:background">@drawable/editsharpgray</item>-->
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:singleLine">true</item>
+      <item name="android:background">@color/white</item>
+    </style>
+    <style name="ListTextView1_1">
+      <!--  <item name="android:background">@drawable/editsharpgray</item>-->
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ListTextView_red">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:background">@drawable/editsharpgray</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ListTextView2">
+        <item name="android:textColor">#000</item>
+        <item name="android:background">@drawable/editsharpgray</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+
+
+    <!--黑色字体-->
+    <style name="BlackText">
+        <item name="android:textColor">#000000</item>
+    </style>
+    <!--价格字体颜色-->
+    <style name="PriceText">
+        <item name="android:textColor">#fa4535</item>
+    </style>
+
+</resources>

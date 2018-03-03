@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:useLevel="false">
+
+    <solid android:color="@color/deal_text" />
+    <!--为矩形绘制边框-->
+    <stroke android:color="@color/deal_text"
+        android:width="2dp"/>
+    <size
+        android:width="0dp"
+        android:height="0dp" />
+
+</shape>

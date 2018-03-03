@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#5d5d5d</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="bg_main">#00acff</color>
+    <color name="light_gray">#949494</color>
+    <color name="main_text">#00bfff</color>
+    <color name="yellow">#FF950D</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="line_gray">#d3d3d1</color>
+    <color name="green">#00B541</color>
+    <color name="yello">#FFB932</color>
+    <color name="blue_size">#0E61EB</color>
+    <color name="red_size">#ED1C24</color>
+    <color name="fgx">#ED1C24</color>
+    <color name="rb_textcolor">#ED1C24</color>
+    <color name="deal_text">#2786ca</color>
+    <color name="main_bg">#f5f5f5</color>
+    <color name="color_b5">#b5b5b5</color>
+    <color name="color_666">#666</color>
+    <color name="query_text">#32bcde</color>
+    <color name="ccc">#ccc</color>
+    <color name="price">#fa4535</color>
+</resources>

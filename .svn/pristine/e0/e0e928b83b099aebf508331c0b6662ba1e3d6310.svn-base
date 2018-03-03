@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editsharpgray.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\editsharpgray.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lv_search_tips_bg.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\lv_search_tips_bg.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search_bg.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\btn_search_bg.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_preferences_item_pressed.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\shape_white_preferences_item_pressed.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card2.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\card2.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e447cb8b4788c6cb05fcbd8cb2f98c5905f855c2\\output\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edittext_shape.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\search_edittext_shape.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_textview.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\shape_round_textview.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canceltor.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\canceltor.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e447cb8b4788c6cb05fcbd8cb2f98c5905f855c2\\output\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_style1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\card_style1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cfx1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\cfx1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\71275830202112d1734408f6775a9427b92868b4\\output\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cfx4.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\cfx4.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rb_wbl.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\rb_wbl.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rb_ybl.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\rb_ybl.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkbtnbged.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\linkbtnbged.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cfx3.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\cfx3.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_radius.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\selected_radius.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_style.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\card_style.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\71275830202112d1734408f6775a9427b92868b4\\output\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_preferences_item.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\shape_white_preferences_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_textview2.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\shape_round_textview2.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\cb.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_white_preferences_item.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\selector_white_preferences_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cfx2.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\cfx2.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_delete_bg.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\iv_delete_bg.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\drawable\\card1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e447cb8b4788c6cb05fcbd8cb2f98c5905f855c2\\output\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\drawable\\abc_btn_check_material.xml"
+    }
+]

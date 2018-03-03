@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/navigation_header"></include>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_audire_info"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></android.support.v7.widget.RecyclerView>
+
+    <LinearLayout
+        android:id="@+id/ll_audire_info_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_audire_info_jj"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/bg_main"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="拒绝"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/tv_audire_info_ty"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/bg_main"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="同意"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+
+</LinearLayout>

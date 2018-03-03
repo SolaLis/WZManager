@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="单位名称:"
+            style="@style/item_wldw"
+            android:textColor="#999999"
+            />
+        <TextView
+            android:id="@+id/tv_item_wldw_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="sp1"
+            android:textSize="14sp"
+            android:textColor="@color/bg_main"
+            android:gravity="center"
+            android:maxLines="1"
+            android:paddingTop="5dp"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:textColor="#999999"
+            android:text="联系人:" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:textColor="#999999"
+            android:text="应收金额:" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:textColor="#999999"
+            android:text="预收金额:" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_item_wldw_lxr"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:text="000001"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:id="@+id/tv_item_wldw_ysmoney"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:text="11.00"
+            />
+        <TextView
+            android:id="@+id/tv_item_wldw_psmoney"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:text="11.00"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:textColor="#999999"
+            android:text="电话:" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:textColor="#999999"
+            android:text="应付金额:" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:textColor="#999999"
+            android:text="预付金额:" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_item_wldw_tel"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:text="1376158758411"
+           android:textColor="@color/black"
+
+            />
+        <TextView
+            android:id="@+id/tv_item_wldw_yfmoney"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:text="11.00"
+            />
+        <TextView
+            android:id="@+id/tv_item_wldw_pfmoney"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            style="@style/item_wldw"
+            android:text="11.00"
+            />
+
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

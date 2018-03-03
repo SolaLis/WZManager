@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+    <include layout="@layout/navigation_header"></include>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg_query"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+<LinearLayout
+    android:id="@+id/ll_query_startDate"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="250dp"
+    android:orientation="horizontal"
+    >
+    <TextView
+        style="@style/Query_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开始时间:" />
+    >
+    <TextView
+        android:id="@+id/tv_query_startDate"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="50dp"
+        android:layout_gravity="center_vertical"
+        android:textColor="@color/query_text"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fgx"
+        android:background="@color/color_b5"
+        />
+    <LinearLayout
+        android:id="@+id/ll_query_endDate"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        >
+        <TextView
+            style="@style/Query_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="结束时间:" />
+        >
+        <TextView
+            android:id="@+id/tv_query_endDate"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:paddingLeft="50dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/query_text"
+
+            />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fgx"
+        android:background="@color/color_b5"
+        />
+    <LinearLayout
+        android:id="@+id/ll_query_bm"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        >
+        <TextView
+            style="@style/Query_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="申请部门:" />
+        >
+        <TextView
+            android:id="@+id/tv_query_bm"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:paddingLeft="50dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/query_text"
+            />
+        <ImageView
+            android:visibility="gone"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/iv_delete_bg"
+            android:id="@+id/iv_query_delete_bm"
+            android:layout_gravity="right|center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fgx"
+        android:background="@color/color_b5"
+        />
+
+    <LinearLayout
+        android:id="@+id/ll_query_r"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        >
+        <TextView
+            style="@style/Query_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sqr" />
+        >
+        <TextView
+            android:id="@+id/tv_query_r"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:paddingLeft="50dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/query_text"
+
+            />
+        <ImageView
+            android:visibility="gone"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/iv_delete_bg"
+            android:id="@+id/iv_query_delete_r"
+            android:layout_gravity="right|center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fgx"
+        android:background="@color/color_b5"
+        />
+        </LinearLayout>
+    <TextView
+        android:id="@+id/btn_query_yes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1446c3"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="50dp"
+        android:text="确定"
+        android:textColor="@color/white"
+      android:gravity="center"
+
+        />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_recyclerview_list_footer.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add3.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_add3.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_dd3_detail1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_dd3_detail1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqb_zy.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_sqb_zy.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_recyclerview_header.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqb_ly.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_sqb_ly.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bm.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_bm.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_indicator_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_indicator_view.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sqdmx_cgsq.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_sqdmx_cgsq.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_zc_dd3_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_zc_dd3_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_audire_info_red.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_audire_info_red.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_azc_mx_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_azc_mx_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_head.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_head.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_wldw.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_wldw.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_network_error.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_audire_info.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_audire_info.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_dd3_detail.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_dd3_detail.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pd_time_mx_detail.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\pd_time_mx_detail.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_total.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_total.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sqb_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\sqb_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sqd.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_sqd.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pd_mx_total.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\pd_mx_total.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqb_dr.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_sqb_dr.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_recyclerview_footer.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_end.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_recyclerview_list_footer_end.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pd_mx_detail.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\pd_mx_detail.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shzt.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\shzt.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pd_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_pd_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customview.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\customview.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audire_info.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_audire_info.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_zc_mx_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_zc_mx_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqb_jy.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_sqb_jy.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bm.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_bm.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_index.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\fragment_index.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pd_mx_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_pd_mx_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_check.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\fragment_check.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqbmx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_sqbmx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pd_mx_head.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\pd_mx_head.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usermessage.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_usermessage.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sqdmx_jysq.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_sqdmx_jysq.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_morelist.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_classify_morelist.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_header.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\sample_header.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_swipe.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\list_item_swipe.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pd_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_pd_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_bx_foot.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_bx_foot.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_zc_dd3_mx1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_zc_dd3_mx1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_bx_head.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_bx_head.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bx_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_bx_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sqdmx_lysq.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_sqdmx_lysq.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqb.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_sqb.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_layout.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e447cb8b4788c6cb05fcbd8cb2f98c5905f855c2\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_employee.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_employee.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_header.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_detail_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_detail_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pd_time_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_pd_time_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pd_mx_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_pd_mx_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_detail.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_detail.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_server.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_server.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_mx_bx_total.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\zc_mx_bx_total.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sqb_xs.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_sqb_xs.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pd_mx_detail_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\pd_mx_detail_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_mainlist.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_classify_mainlist.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_view_load_more.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\71275830202112d1734408f6775a9427b92868b4\\output\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_audirecord.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_audirecord.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add31.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_add31.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sqdmx_zysq.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_sqdmx_zysq.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customview1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\customview1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_swipe_item_default.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\669816f76a06b3c7aec7c128e10df9d0672d15aa\\output\\res\\layout\\layout_recyclerview_swipe_item_default.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pd_time_mx_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_pd_time_mx_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deal.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_deal.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sqb_drdc.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\sqb_drdc.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pd_time_mx_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_pd_time_mx_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_down.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\pop_down.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_abx_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_abx_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\164e94910f5e1c128da744786ca9ba10f31df131\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pd_time_mx_detail_1.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\pd_time_mx_detail_1.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_azc_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_azc_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pd_time_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\activity_pd_time_mx.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\057eb173808bcf754aac4085a7b2d4498ce04f01\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\work\\WZManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_zc_mx.xml",
+        "source": "F:\\work\\WZManager\\app\\src\\main\\res\\layout\\item_zc_mx.xml"
+    }
+]

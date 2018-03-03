@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/navigation_header"></include>
+    <include layout="@layout/shzt"></include>
+    <include layout="@layout/sqb_mx"></include>
+
+
+    <!--分割线-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/ccc" />
+
+<!--    <HorizontalScrollView
+        android:id="@+id/hsv_query"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        <RelativeLayout
+            android:id="@+id/rl_query1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/ll_query3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="序号" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="物料编码" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="名称" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:text="规格" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="拼音码" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="单位" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="数量" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="件数" />
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="单价" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="金额" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="备注" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="销售数量" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="销售件数" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="销售数量(占用)" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="销售件数(占用)" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="已退数量" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:text="已退件数" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="已退数量(占用)" />
+
+                <TextView
+                    style="@style/ListTextView"
+                    android:layout_width="140dp"
+                    android:layout_height="wrap_content"
+                    android:text="已退件数(占用)" />
+            </LinearLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_xssq"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/ll_query3"></android.support.v7.widget.RecyclerView>
+
+
+        </RelativeLayout>
+    </HorizontalScrollView>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+        <LinearLayout
+            android:layout_width="@dimen/item_width"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="@dimen/item_width"
+                android:layout_height="wrap_content"
+                style="@style/ListTextView"
+                android:text="序号" />
+            <gjp.com.wzmanager.ui.CHScrollView2
+                android:id="@+id/item_scroll_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/red"
+                android:scrollbars="none" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="物料编码" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/editsharpgray"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:maxLines="2"
+                        android:textColor="@color/black"
+                        android:text="名称" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/editsharpgray"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:maxLines="2"
+                        android:textColor="@color/black"
+                        android:text="规格" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="拼音码" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="单位" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="数量" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="件数" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="单价" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="金额" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:text="备注" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="销售数量" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="销售件数" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="销售数量(占用)" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="销售件数(占用)" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="已退数量" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="已退件数" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="已退数量(占用)" />
+                    <TextView
+                        style="@style/ListTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="已退件数(占用)" />
+                </LinearLayout>
+            </gjp.com.wzmanager.ui.CHScrollView2>
+        </LinearLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_xssq"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/ll_query3"></android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+</LinearLayout>

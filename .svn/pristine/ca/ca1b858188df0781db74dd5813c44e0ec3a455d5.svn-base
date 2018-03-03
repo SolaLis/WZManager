@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="gjp.com.wzmanager">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".activity.ServerActivity" />
+        <activity android:name=".activity.SerActivity" />
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.BaseActivity" />
+        <activity android:name=".activity.DealActivity" />
+        <activity android:name=".activity.QueryActivity" />
+        <activity android:name=".activity.TestActivity" />
+        <activity android:name=".activity.BmActivity" />
+        <activity android:name=".activity.EmployeeActivity" />
+        <activity android:name=".activity.SqbActivity" />
+        <activity android:name=".activity.SqbmxActivity" />
+        <activity android:name=".activity.SqbLyActivity" />
+        <activity android:name=".activity.SqbJyActivity" />
+        <activity android:name=".activity.SqbXsActivity" />
+        <activity android:name=".activity.SqbZyActivity" />
+        <activity android:name=".activity.SqbDrActivity" />
+        <activity android:name=".activity.ASqbCgActivity" />
+        <activity android:name=".activity.ASqbDrActivity" />
+        <activity android:name=".activity.ASqbJyActivity" />
+        <activity android:name=".activity.ASqbLyActivity" />
+        <activity android:name=".activity.ASqbXsActivity" />
+        <activity android:name=".activity.ASqbZyActivity" />
+        <activity android:name=".activity.AudireInfoActivity" />
+        <activity android:name=".activity.AZcMxActivity" />
+        <activity android:name=".activity.ABxMxActivity" />
+        <activity android:name=".activity.ADd3Activity" />
+        <activity android:name=".activity.PdMxActivity" />
+        <activity android:name=".activity.PdTimeMxActivity" />
+        <activity android:name=".activity.AboutActivity" />
+        <activity android:name=".activity.UsermessageActivity"></activity>
+    </application>
+
+</manifest>

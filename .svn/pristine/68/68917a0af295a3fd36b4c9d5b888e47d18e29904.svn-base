@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_server"
+    android:paddingTop="150dp"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tv_ysgj_login"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/et_ysgj_user"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/loginHeight"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="5dp"
+        android:background="@drawable/card_style1"
+        android:hint="@string/ysgj_login_user"
+        android:textSize="14sp"/>
+
+    <EditText
+        android:id="@+id/et_ysgj_password"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/loginHeight"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="5dp"
+        android:inputType="textPassword"
+        android:background="@drawable/card_style1"
+        android:hint="@string/ysgj_login_pass"
+        android:textSize="14sp"/>
+
+    <EditText
+        android:id="@+id/et_ysgj_port"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/loginHeight"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="5dp"
+        android:background="@drawable/card_style1"
+        android:hint="@string/ysgj_port"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tv_ysgj_login"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/loginHeight"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/account_list_background"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/login"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/tv_ysgj_back"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/loginHeight"
+        android:layout_marginTop="@dimen/loginMarin"
+        android:background="@drawable/account_list_background"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/server_back"
+        android:textColor="@color/white" />
+
+</LinearLayout>
